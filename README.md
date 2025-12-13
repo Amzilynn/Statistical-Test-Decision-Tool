@@ -13,7 +13,7 @@ Selecting the right statistical test is crucial. This tool simplifies the decisi
 - **Interactive decision tree** - Guided questions lead to the right test
 - **Comprehensive coverage** - Covers parametric and non-parametric tests
 - **Real examples** - Each test includes practical use cases
-- 
+  
 
 ## Usage
 
