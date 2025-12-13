@@ -1,5 +1,4 @@
-# Statistical-Test-Decision-Tool
-Interactive web tool to help researchers choose the correct statistical test in seconds. Based on peer-reviewed research on parametric and non-parametric methods.
+
 # Statistical Test Decision Tool
 
 An interactive web-based tool that helps researchers and data analysts choose the correct statistical test in under 60 seconds.
@@ -14,7 +13,6 @@ Selecting the right statistical test is crucial. This tool simplifies the decisi
 - **Interactive decision tree** - Guided questions lead to the right test
 - **Comprehensive coverage** - Covers parametric and non-parametric tests
 - **Real examples** - Each test includes practical use cases
-- **Mobile responsive** - Works on any device
 - 
 
 ## Usage
