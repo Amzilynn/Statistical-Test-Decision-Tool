@@ -15,10 +15,6 @@ Selecting the right statistical test is crucial. This tool simplifies the decisi
 - **Real examples** - Each test includes practical use cases
   
 
-## Usage
-
-Simply open `index.html` in any modern web browser. No server or dependencies required.
-
 
 
 ##  Supported Tests
